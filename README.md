@@ -4,4 +4,4 @@
 
 # Motivation
 
-This work demonstrate how safeguard models rely on superficial keyword pattern, and uncover potential shortcut keyword based on their models.
+This work demonstrate how safeguard models are vulnerable to superficial keyword patterns and identify model-specifc shortcut keyword based on their safeguard models.
