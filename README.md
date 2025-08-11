@@ -1,7 +1,7 @@
 # Shortcut Learning in Safety: The Impact of Keyword Bias in Safeguards
 
 <img src="src/overview_safety-1.png" >
-Check out [Link Text](https://aclanthology.org/2025.llmsec-1.14.pdf) for more details.
+Check out the paper https://aclanthology.org/2025.llmsec-1.14.pdf for more details.
 
 # Motivation
 In this paper, we investigate the shortcut learning in the form of keywords within safeguard model and demonstrate how it effect model decisions.
