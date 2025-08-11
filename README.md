@@ -3,11 +3,11 @@
 <img src="src/overview_safety-1.png" >
 
 # Motivation
-In this paper, we investigate the shortcut learning in the form of keywords within safeguard model. 
-how safeguard models are vulnerable to superficial keyword patterns and identify model-specifc shortcut keyword based on their safeguard models.
-
+In this paper, we investigate the shortcut learning in the form of keywords within safeguard model and demonstrate how it effect model decisions.
 # Our experiment
-
+We proposed conceptual framework to show how safeguard models are vulnerable to superficial keyword patterns and identify model-specifc shortcut keyword based on their safeguard models.
+1. harmful-asscociated keyword
+2. safe-associated keyword
 # Citation
 ```
 @inproceedings{tasawong-etal-2025-shortcut,
