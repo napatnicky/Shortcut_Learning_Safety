@@ -3,8 +3,8 @@
 <img src="src/overview_safety-1.png" >
 
 # Motivation
-
-This work demonstrate how safeguard models are vulnerable to superficial keyword patterns and identify model-specifc shortcut keyword based on their safeguard models.
+In this paper, we investigate the shortcut learning in the form of keywords within safeguard model. 
+how safeguard models are vulnerable to superficial keyword patterns and identify model-specifc shortcut keyword based on their safeguard models.
 
 # Our experiment
 
