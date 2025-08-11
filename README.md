@@ -6,8 +6,8 @@
 In this paper, we investigate the shortcut learning in the form of keywords within safeguard model and demonstrate how it effect model decisions.
 # Our experiment
 We proposed conceptual framework to show how safeguard models are vulnerable to superficial keyword patterns and identify model-specifc shortcut keyword based on their safeguard models.
-1. Harmful-asscociated keyword
-2. Safe-associated keyword
+1. Harmful-asscociated keyword – words that make the model think the content is dangerous, even when it’s not.
+2. Safe-associated keyword - words that make the model think the content is harmless, even when it might be harmful.
 # Citation
 ```
 @inproceedings{tasawong-etal-2025-shortcut,
