@@ -4,7 +4,7 @@
 Check out the paper https://aclanthology.org/2025.llmsec-1.14.pdf for more details.
 
 # Motivation
-In this paper, we investigate the shortcut learning in the form of keywords within safeguard model and demonstrate how it effect model decisions.
+In this paper, we investigate the shortcut learning in the form of keywords bias within safeguard model and demonstrate how it effect model decisions.
 # Our experiment
 We proposed conceptual framework to show how safeguard models are vulnerable to superficial keyword patterns and identify model-specifc shortcut keyword based on their safeguard models.
 1. Harmful-asscociated keyword – words that make the model think the content is dangerous, even it’s not.
